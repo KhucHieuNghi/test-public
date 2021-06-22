@@ -1,0 +1,14 @@
+npm i
+
+https://docs.npmjs.com/creating-and-publishing-scoped-public-packages
+
+npm login
+npm adduser
+npm init --scope=@my-org
+npm init --scope=@my-username
+npm publish --access public
+npm whoami
+npm unpublish
+npm version <update_type>
+
+https://docs.npmjs.com/configuring-your-registry-settings-as-an-npm-enterprise-user

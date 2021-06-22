@@ -1,0 +1,21 @@
+{
+  "name": "@nghi.khuc/tes-public-n-k",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KhucHieuNghi/test-public.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KhucHieuNghi/test-public/issues"
+  },
+  "homepage": "https://github.com/KhucHieuNghi/test-public#readme",
+  "dependencies": {},
+  "devDependencies": {},
+  "description": ""
+}
